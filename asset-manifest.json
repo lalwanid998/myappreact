@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/myappreact/static/css/main.e6c13ad2.css",
+    "main.js": "/myappreact/static/js/main.1f52a7b4.js",
+    "static/js/787.4bf80c3c.chunk.js": "/myappreact/static/js/787.4bf80c3c.chunk.js",
+    "index.html": "/myappreact/index.html",
+    "main.e6c13ad2.css.map": "/myappreact/static/css/main.e6c13ad2.css.map",
+    "main.1f52a7b4.js.map": "/myappreact/static/js/main.1f52a7b4.js.map",
+    "787.4bf80c3c.chunk.js.map": "/myappreact/static/js/787.4bf80c3c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.1f52a7b4.js"
+  ]
+}
